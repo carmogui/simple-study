@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  border: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: cadetblue;
+}
+
+section {
+  background-color: whitesmoke;
+  border-radius: 8px;
+  padding: 8px;
+  width: 300px;
+  height: 300px;
+  box-shadow: 0 0 10px black;
+}
+
+footer > p {
+  font-style: italic;
+}

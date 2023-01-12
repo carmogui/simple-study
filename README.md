@@ -1,5 +1,5 @@
 # simple-study
-Compilation of non-relevant exercises I did to study
+Compilation of simple exercises I did to study
 
 ---
 

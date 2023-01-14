@@ -26,7 +26,6 @@ function run() {
   
   function handleSubmit(event) {
     event.preventDefault();
-    
 
     const data = new FormData(elForm);
     const birthday = data.get('birthday');
